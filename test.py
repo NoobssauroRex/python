@@ -1,1 +1,2 @@
-print ("ola mundo")
+nome = "erick"
+print ("ola" + nome )
